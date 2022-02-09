@@ -1,4 +1,4 @@
-[![Header](https://github.com/Atoshol/Atoshol/blob/main/assets/pixel_rain.gif)](https://www.instagram.com/atoshol_)
+[![Header](https://github.com/Atoshol/Atoshol/blob/main/assets/madara.gif)](https://www.instagram.com/atoshol_)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
