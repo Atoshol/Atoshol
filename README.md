@@ -3,8 +3,8 @@
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=E9D54D)
-![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql&logoColor=E9D54D)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/atoshol)
