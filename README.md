@@ -3,7 +3,7 @@
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=white)
 ![Bot](https://img.shields.io/badge/-Bots-090909?style=for-the-badge&logo=telegram)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql)
 
