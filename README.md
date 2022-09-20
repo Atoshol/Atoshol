@@ -1,7 +1,7 @@
 [![Header](https://github.com/Atoshol/Atoshol/blob/main/assets/skelotons.gif)](https://www.instagram.com/atoshol_)
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bot](https://img.shields.io/badge/-Bots-090909?style=for-the-badge&logo=telegram)
