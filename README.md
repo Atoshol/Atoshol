@@ -8,7 +8,6 @@
 ![FastAPI](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
-![Django](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=)
 ![Bot](https://img.shields.io/badge/-Bots-090909?style=for-the-badge&logo=telegram)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
